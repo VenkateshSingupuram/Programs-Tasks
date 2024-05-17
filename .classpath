@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/PDF Programs/commons-logging-1.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/PDF Programs/fontbox-2.0.30 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/PDF Programs/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/PDF Programs/pdfbox-2.0.30 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/PDF Programs/postgresql-42.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Folder/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/Excel Programs/commons-collections4-4.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/Excel Programs/poi-3.17 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/Excel Programs/poi-excelant-3.17 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/Excel Programs/poi-ooxml-3.17 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/Excel Programs/poi-ooxml-schemas-3.17 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/SKTS_Admin_02/Desktop/01-05-2024/Log4j Programs/Excel Programs/xmlbeans-2.6.0 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
