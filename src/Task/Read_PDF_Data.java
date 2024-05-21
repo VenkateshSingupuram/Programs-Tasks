@@ -12,8 +12,8 @@ import org.apache.pdfbox.text.PDFTextStripper;
 
 public class Read_PDF_Data {
 	
-//	private static Logger loggers = Logger.getLogger(Read_PDF_Data.class);
-//	
+	private static Logger loggers = Logger.getLogger(Read_PDF_Data.class);
+	
 //	static {
 //		try {
 //			PropertyConfigurator.configure(
